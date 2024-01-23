@@ -1,0 +1,18 @@
+struktury w c++
+definicja:
+struct Nazwa {typ nazwa...}
+napisz apk konsolową o nazwie "Państwa"
+apk posiada struktury. Państwa flaga
+wyświetla 5 róznych państw na podstawie nr. 1, 2, 3, 4, 5
+czyli jesli 1 to ... 2 to....
+Flaga:
+    string kolory
+    unsigned int dd, mm, rr;
+
+Państwa:
+    string nazwa
+    int ludnosc
+    int ilosc_wojew.
+    Flaga opis_flagi
+apk przełącza się miedzy obiektami przez zastosowany wskaźnik
+zastosuj switch case...
