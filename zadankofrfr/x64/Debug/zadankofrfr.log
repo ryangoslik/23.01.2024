@@ -1,0 +1,6 @@
+﻿  zadankofrfr.cpp
+C:\Users\Programista\Desktop\2ctkb\23.01.2024\zadankofrfr\zadankofrfr.cpp(27,32): warning C4838: konwersja z „__int64” do „int” wymaga konwersji zawężającej
+C:\Users\Programista\Desktop\2ctkb\23.01.2024\zadankofrfr\zadankofrfr.cpp(27,32): warning C4305: "inicjowanie": obcięcie z "__int64" do "int"
+C:\Users\Programista\Desktop\2ctkb\23.01.2024\zadankofrfr\zadankofrfr.cpp(27,32): warning C4309: "inicjowanie": obcięcie stałej wartości
+C:\Users\Programista\Desktop\2ctkb\23.01.2024\zadankofrfr\zadankofrfr.cpp(22,11): warning C4101: "wsk": lokalna zmienna, do której nie istnieje odwołanie
+  zadankofrfr.vcxproj -> C:\Users\Programista\Desktop\2ctkb\23.01.2024\zadankofrfr\x64\Debug\zadankofrfr.exe
